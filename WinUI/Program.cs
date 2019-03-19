@@ -10,6 +10,7 @@ namespace WinUI
     {
         static void Main(string[] args)
         {
+            Console.Write("aaaaaaaaa测试");
         }
     }
 }
