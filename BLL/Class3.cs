@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    class Class3
+   public partial class Class3
     {
     }
 }
